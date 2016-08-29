@@ -1,0 +1,2 @@
+# LineTextView
+带有删除线和下划线的TextView，同样可以作为普通TextView使用
