@@ -4,6 +4,14 @@
 ##效果图
 ![img](https://github.com/SmallLee/LineTextView/blob/master/QQ%E6%88%AA%E5%9B%BE20160829155418.png)
 
+#引入
+
+```Java
+dependencies {
+    compile 'com.fang:linetextview:v1.0.0'
+
+}
+```
 
 ##布局文件使用
 1.布局文件，和普通TextView一样
